@@ -20,6 +20,7 @@ test/fixtures/example-ts-ets/typings/
 
 
 **/run/*.json
+.DS_Store
 .tmp
 .vscode
 .cache
