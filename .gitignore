@@ -31,3 +31,4 @@ package-lock.json
 yarn.lock
 .c8_output
 .idea
+.DS_Store
